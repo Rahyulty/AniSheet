@@ -13,12 +13,9 @@ A modern, desktop application for viewing and animating sprite sheets. AniSheet 
 - ▶️ **Animation Playback** - Play/pause animations with customizable FPS (1-60)
 - ⌨️ **Keyboard Shortcuts** - Quick controls for play/pause and frame navigation
 - 🔄 **Auto-Update** - Sprite sheet automatically updates when dimensions change
-- 🎯 **Boundary Checking** - Ensures frames stay within image boundaries (no black spots)
 - 📐 **Frame Stepping** - Step forward/backward through frames manually
 
 ## Screenshots
-
-*Add screenshots of your application here*
 
 ## Installation
 
